@@ -5,4 +5,4 @@ Amazon Credentials Checker
 + Auto create login profile
 + Tell me what features you want to added on this tools :D
 
-Actually i love ur money : 3Jmj6vr8ZKChmV9vGx5zg3insNWkcNsw7E - do u understand boy ? XD
+Actually i love ur money : 1KVwhbiW3GQhahaHrYC2d2GBxy76vQK2sc - do u understand boy ? XD
