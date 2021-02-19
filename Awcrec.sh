@@ -1,5 +1,4 @@
 # !/bin/bash
-# Contact : https://fb.me/n00b.me - https://t.me/noolep
 
 # color(bold)
 red='\e[1;31m'
@@ -51,7 +50,7 @@ echo -e "${yellow}\t███████║██║ █╗ ██║██║ 
 echo -e "${yellow}\t██╔══██║██║███╗██║██║     ██╔══██╗██╔══╝  ██║     ${white}"
 echo -e "${yellow}\t██║  ██║╚███╔███╔╝╚██████╗██║  ██║███████╗╚██████╗${white}"
 echo -e "${yellow}\t╚═╝  ╚═╝ ╚══╝╚══╝  ╚═════╝╚═╝  ╚═╝╚══════╝ ╚═════╝${white}"
-echo -e "${white}   [ ${green}AWS Credentials Checker ${blue}- ${green}By ${blue}: ${green}./LazyBoy ${blue}- ${green}JavaGhost Team ${white}]\n"
+echo -e "${white}   [ ${green}AWS Credentials Checker ${blue}- ${green}By ${blue}: ${green}Nicsx ${blue}- ${green}./LazyBoy ${white}]\n"
 
 # ask file + check
 echo -e "${white}[ ${red}INFO ${white}] ${blue}- ${red}ONLY INPUT LIST WITH FORMAT LIKE THIS ${blue}: ${green}AWS_KEY|AWS_SEC|AWS_REG${white}"
